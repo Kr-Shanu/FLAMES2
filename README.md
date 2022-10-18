@@ -1,6 +1,6 @@
 ## FLAMES 
 
-> Play this interesting game of FLAMES here : ![👉](https://kr-shanu.github.io/flames2/)
+> Play this interesting game of FLAMES here : [CLick me](https://kr-shanu.github.io/flames2/)
 
 > Write your name and your crush's name and see where your relation falls with FLAME concept.
 
