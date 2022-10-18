@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/flames2/static/js/main.65e81e6d.js",
+    "main.js": "/flames2/static/js/main.16823fc9.js",
     "index.html": "/flames2/index.html",
-    "main.65e81e6d.js.map": "/flames2/static/js/main.65e81e6d.js.map"
+    "main.16823fc9.js.map": "/flames2/static/js/main.16823fc9.js.map"
   },
   "entrypoints": [
-    "static/js/main.65e81e6d.js"
+    "static/js/main.16823fc9.js"
   ]
 }
