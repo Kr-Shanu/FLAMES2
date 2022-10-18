@@ -1,6 +1,6 @@
-## FLAMES 💞💞
+## FLAMES 
 
-#### Play this interesting game of FLAMES here : [👉 Click here](https://kr-shanu.github.io/flames2/)
+> Play this interesting game of FLAMES here : [CLick me](https://kr-shanu.github.io/flames2/)
 
 ### Here are some sample images:
 
@@ -32,16 +32,10 @@ In order to test the application on your own system.
 git clone https://github.com/Kr-Shanu/flames2.git
 ```
 
-* Write 👇 to install npm packages
-```
-npm install
-```
+        * Clone the repo : '''git clone https://github.com/Kr-Shanu/flames2.git'''
 
-* Write 👇 to start the server
-```
-npm start
-```
+        * Write '''npm start''' 
 
-* The react application will start at the localhost in your browser.
+        * The react application will start at the localhost in your browser.
 
-* Enjoy coding 🥳🥳
+        * Enjoy coding 🥳🥳
