@@ -12,7 +12,7 @@ function Form(props) {
     };
 
     return (
-        <div style={{ padding: "12%" }}>
+        <div style={{ padding: "12%", paddingBottom:"0%" }}>
 
             <div className="row">
                 <div className="col-lg-4"></div>

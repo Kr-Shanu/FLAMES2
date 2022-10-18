@@ -62,7 +62,7 @@ function Relation(props){
 
     return(
         <div style={{textAlign:"center"}}>
-        <h2 style={{paddingTop:"10%"}}>Result : {relation}</h2>
+        <h2 style={{paddingTop:"5%"}}>Result : {relation}</h2>
         <img alt="description" src={link} width="250px" height="250px"></img>
         </div>
     );
