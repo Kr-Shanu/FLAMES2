@@ -32,6 +32,11 @@ In order to test the application on your own system.
 git clone https://github.com/Kr-Shanu/flames2.git
 ```
 
+* Write 👇 to install npm packages
+```
+npm install
+```
+
 * Write 👇 to start the server
 ```
 npm start
